@@ -1,0 +1,13 @@
+INSERT INTO "banner"("banner_id", "type", "system_id", "priority", "start_date", "end_date", "sub_banner_id_1", "is_show_room") VALUES (10000, 1, 302, 1, '2020/01/01 0:00:00', '2020/04/23 12:59:59', 0, 0);
+INSERT INTO "banner"("banner_id", "type", "system_id", "priority", "start_date", "end_date", "sub_banner_id_1", "is_show_room") VALUES (10001, 1, 302, 1, '2020/04/23 13:00:00', '2020/05/07 12:59:59', 0, 0);
+INSERT INTO "banner"("banner_id", "type", "system_id", "priority", "start_date", "end_date", "sub_banner_id_1", "is_show_room") VALUES (10002, 1, 302, 1, '2020/05/07 13:00:00', '2020/05/15 10:59:59', 0, 0);
+INSERT INTO "banner"("banner_id", "type", "system_id", "priority", "start_date", "end_date", "sub_banner_id_1", "is_show_room") VALUES (10003, 1, 302, 1, '2020/05/15 11:00:00', '2020/05/28 10:59:59', 0, 0);
+INSERT INTO "banner"("banner_id", "type", "system_id", "priority", "start_date", "end_date", "sub_banner_id_1", "is_show_room") VALUES (10004, 1, 302, 1, '2020/05/28 11:00:00', '2020/06/08 10:59:59', 0, 0);
+INSERT INTO "banner"("banner_id", "type", "system_id", "priority", "start_date", "end_date", "sub_banner_id_1", "is_show_room") VALUES (10005, 1, 302, 1, '2020/06/08 11:00:00', '2020/06/23 10:59:59', 0, 0);
+INSERT INTO "banner"("banner_id", "type", "system_id", "priority", "start_date", "end_date", "sub_banner_id_1", "is_show_room") VALUES (10006, 1, 302, 1, '2020/06/23 11:00:00', '2020/07/06 10:59:59', 0, 0);
+INSERT INTO "banner"("banner_id", "type", "system_id", "priority", "start_date", "end_date", "sub_banner_id_1", "is_show_room") VALUES (10007, 1, 302, 2, '2020/07/06 11:00:00', '2020/07/20 10:59:59', 0, 0);
+INSERT INTO "banner"("banner_id", "type", "system_id", "priority", "start_date", "end_date", "sub_banner_id_1", "is_show_room") VALUES (20000, 2, 101, 2, '2020/01/01 0:00:00', '2099/12/31 23:59:59', 0, 0);
+INSERT INTO "banner"("banner_id", "type", "system_id", "priority", "start_date", "end_date", "sub_banner_id_1", "is_show_room") VALUES (20002, 1, 902, 3, '2020/06/23 11:00:00', '2099/12/31 23:59:59', 0, 0);
+INSERT INTO "banner"("banner_id", "type", "system_id", "priority", "start_date", "end_date", "sub_banner_id_1", "is_show_room") VALUES (20003, 1, 302, 4, '2020/06/27 5:00:00', '2020/07/08 4:59:59', 0, 0);
+INSERT INTO "banner"("banner_id", "type", "system_id", "priority", "start_date", "end_date", "sub_banner_id_1", "is_show_room") VALUES (20004, 1, 305, 1, '2020/07/06 11:00:00', '2020/07/11 12:59:59', 0, 0);
+INSERT INTO "banner"("banner_id", "type", "system_id", "priority", "start_date", "end_date", "sub_banner_id_1", "is_show_room") VALUES (60001, 1, 304, 5, '2020/01/01 0:00:00', '2099/12/31 23:59:59', 0, 0);

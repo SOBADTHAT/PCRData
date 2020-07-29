@@ -1,0 +1,12 @@
+INSERT INTO "love_chara"("love_level", "total_love", "unlocked_class", "rarity") VALUES (1, 0, 1, 1);
+INSERT INTO "love_chara"("love_level", "total_love", "unlocked_class", "rarity") VALUES (2, 175, 1, 1);
+INSERT INTO "love_chara"("love_level", "total_love", "unlocked_class", "rarity") VALUES (3, 420, 1, 1);
+INSERT INTO "love_chara"("love_level", "total_love", "unlocked_class", "rarity") VALUES (4, 700, 1, 1);
+INSERT INTO "love_chara"("love_level", "total_love", "unlocked_class", "rarity") VALUES (5, 1400, 1, 3);
+INSERT INTO "love_chara"("love_level", "total_love", "unlocked_class", "rarity") VALUES (6, 2100, 1, 3);
+INSERT INTO "love_chara"("love_level", "total_love", "unlocked_class", "rarity") VALUES (7, 2800, 1, 3);
+INSERT INTO "love_chara"("love_level", "total_love", "unlocked_class", "rarity") VALUES (8, 4200, 1, 3);
+INSERT INTO "love_chara"("love_level", "total_love", "unlocked_class", "rarity") VALUES (9, 5600, 2, 1);
+INSERT INTO "love_chara"("love_level", "total_love", "unlocked_class", "rarity") VALUES (10, 7000, 2, 1);
+INSERT INTO "love_chara"("love_level", "total_love", "unlocked_class", "rarity") VALUES (11, 9000, 2, 1);
+INSERT INTO "love_chara"("love_level", "total_love", "unlocked_class", "rarity") VALUES (12, 11500, 2, 1);

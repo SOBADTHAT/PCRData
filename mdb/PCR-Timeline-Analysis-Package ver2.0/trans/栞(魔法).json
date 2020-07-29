@@ -1,0 +1,2982 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7023255497966378000
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8769737722289237000
+  },
+  "m_Name": "",
+  "AttackDetail": {
+    "Visible": 0,
+    "ExecTimeForPrefab": [
+      {
+        "data": {
+          "Time": 0.3,
+          "DamageNumType": 0,
+          "Weight": 1,
+          "DamageNumScale": 1
+        }
+      }
+    ],
+    "ExecTimeCombo": [],
+    "ActionId": 0,
+    "ActionEffectList": []
+  },
+  "UseDefaultDelay": 1,
+  "Attack": {
+    "IsPrincessForm": 0,
+    "PrincessSkillMovieDataList": [],
+    "ActionParametersOnPrefab": [
+      {
+        "data": {
+          "Visible": 1,
+          "ActionType": 0,
+          "Details": [
+            {
+              "data": {
+                "Visible": 1,
+                "ExecTimeForPrefab": [
+                  {
+                    "data": {
+                      "Time": 0,
+                      "DamageNumType": 0,
+                      "Weight": 1,
+                      "DamageNumScale": 1
+                    }
+                  }
+                ],
+                "ExecTimeCombo": [],
+                "ActionId": 0,
+                "ActionEffectList": []
+              }
+            }
+          ],
+          "KnockAnimationCurve": {
+            "m_Curve": [],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "KnockDownAnimationCurve": {
+            "m_Curve": [],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "EffectType": 0
+        }
+      }
+    ],
+    "SkillEffects": [
+      {
+        "data": {
+          "Prefab": {
+            "m_FileID": 1,
+            "m_PathID": -7494889305254951000
+          },
+          "PrefabLeft": {
+            "m_FileID": 1,
+            "m_PathID": -4311241156035806000
+          },
+          "ExecTime": [
+            {
+              "data": 0.9
+            }
+          ],
+          "IsReaction": 0,
+          "FireArmEndEffects": [],
+          "TargetActionIsReflexive": 0,
+          "TargetActionIndex": 0,
+          "TargetActionId": 0,
+          "FireActionId": 0,
+          "TargetMotionIndex": 0,
+          "EffectBehavior": 1,
+          "EffectTarget": 0,
+          "TargetBone": 2,
+          "FireArmEndTarget": 2,
+          "FireArmEndTargetBone": 3,
+          "TrackType": 0,
+          "TrackDimension": 0,
+          "TargetBoneName": "",
+          "TrackRotation": 0,
+          "DestroyOnEnemyDead": 0,
+          "CenterY": 0,
+          "DeltaY": 0,
+          "TrackTarget": 0,
+          "Height": 0,
+          "IsAbsoluteFireArm": 0,
+          "AbsoluteFireDistance": 0,
+          "ShakeEffects": [
+            {
+              "data": {
+                "ShakeType": 0,
+                "StartTime": 0,
+                "Duration": 0.2,
+                "TargetMotion": 0,
+                "StartAmplitude": 0.01,
+                "EndAmplitude": 0.01,
+                "StartFrequency": 5,
+                "EndFrequency": 5,
+                "Rotation": 90
+              }
+            }
+          ],
+          "TargetBranchId": 0,
+          "PlayWithCutIn": 0
+        }
+      }
+    ],
+    "ShakeEffects": [],
+    "BlurEffects": [],
+    "ZoomEffect": {
+      "Enable": 0,
+      "ConsiderScreenSize": 1,
+      "StartDelay": 0,
+      "StartDuration": 0.15,
+      "Duration": 1.55,
+      "EndDuration": 0.1,
+      "To": 0.9,
+      "ZoomTarget": 0,
+      "OffsetY": 0,
+      "OffsetX": 0,
+      "UseYBottom": 0,
+      "ZoomEffectList": [],
+      "StartEasingType": 2,
+      "EndEasingType": 2
+    },
+    "SlowEffect": {
+      "Enable": 0,
+      "StartDelay": 0,
+      "StartDuration": 0,
+      "Duration": 1.55,
+      "EndDuration": 0.1,
+      "To": 0.9
+    },
+    "ForcePlayNoTarget": 0,
+    "ParameterTarget": 0,
+    "ChangeSortDatas": [],
+    "ScaleChangers": [],
+    "BlackOutTime": 0,
+    "BlackoutEndWithMotion": 0,
+    "ForceComboDamage": 0,
+    "BlackoutColor": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0.9607843
+    },
+    "CutInMovieFadeStartTime": 1.9,
+    "CutInMovieFadeDurationTime": 0.1,
+    "CutInSkipTime": 0,
+    "SkillMotionType": 0,
+    "TrackDamageNum": 1,
+    "PauseStopState": 0,
+    "BranchIds": [
+      {
+        "data": 0
+      }
+    ]
+  },
+  "UnionBurstList": [
+    {
+      "data": {
+        "IsPrincessForm": 0,
+        "PrincessSkillMovieDataList": [],
+        "ActionParametersOnPrefab": [
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 1,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 2.6,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 110100101,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 3,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 1.7999999999999998,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 8,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 1.7000000000000002,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 102100102,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 1,
+              "ActionType": 10,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 1,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 3.4000000000000004,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 112300101,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 2.8000000000000003,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 108700103,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 0,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 6,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 3,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 108500102,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 4,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 3.1,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 110100102,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 7,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 0,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 109300102,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 2,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 0,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 9,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 0,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 20,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 0,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 26,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 0,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 109300101,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          }
+        ],
+        "SkillEffects": [
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": -1667836680309465300
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": -5279189697335946000
+              },
+              "ExecTime": [
+                {
+                  "data": 0.1
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 1
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": -2548093663120710000
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": -2548093663120710000
+              },
+              "ExecTime": [
+                {
+                  "data": 0.35
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 1
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": 3810057809985408500
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": 3810057809985408500
+              },
+              "ExecTime": [
+                {
+                  "data": 0
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 1
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": -5295206841700438000
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": -1622580945886966000
+              },
+              "ExecTime": [
+                {
+                  "data": 0.7
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 1
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": 5642019099663308000
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": -6318420217556965000
+              },
+              "ExecTime": [
+                {
+                  "data": 2.6
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 1
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": -4599314183507073500
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": 3739482900261962000
+              },
+              "ExecTime": [
+                {
+                  "data": 0
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 1
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": 4501930453854784000
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": 2854333773071076400
+              },
+              "ExecTime": [
+                {
+                  "data": 0
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 1
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": 9014087330186246000
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": 9014087330186246000
+              },
+              "ExecTime": [
+                {
+                  "data": 0.9
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 1
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": -8336904259444177000
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": 1018759930267590900
+              },
+              "ExecTime": [
+                {
+                  "data": 0.9
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 1
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": -256617727834112000
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": -5771422326417384000
+              },
+              "ExecTime": [
+                {
+                  "data": 1.3
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 1
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": 4760903856564387000
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": 4849970756391678000
+              },
+              "ExecTime": [
+                {
+                  "data": 0.6
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 1
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": -1457012722435499300
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": -1457012722435499300
+              },
+              "ExecTime": [
+                {
+                  "data": 2.5
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 2,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 1
+            }
+          }
+        ],
+        "ShakeEffects": [],
+        "BlurEffects": [],
+        "ZoomEffect": {
+          "Enable": 1,
+          "ConsiderScreenSize": 0,
+          "StartDelay": 0,
+          "StartDuration": 0,
+          "Duration": 0.35,
+          "EndDuration": 0.4,
+          "To": 0.8,
+          "ZoomTarget": 0,
+          "OffsetY": -0.3,
+          "OffsetX": 0,
+          "UseYBottom": 0,
+          "ZoomEffectList": [
+            {
+              "data": {
+                "StartDuration": 0,
+                "Duration": 0.45,
+                "To": 1.3,
+                "OffsetX": 0,
+                "OffsetY": -0.2,
+                "ZoomTarget": 0,
+                "StartEasingType": 2,
+                "UseYBottom": 0
+              }
+            },
+            {
+              "data": {
+                "StartDuration": 0.2,
+                "Duration": 0.4,
+                "To": 0.9,
+                "OffsetX": 0,
+                "OffsetY": -3.7,
+                "ZoomTarget": 0,
+                "StartEasingType": 2,
+                "UseYBottom": 0
+              }
+            },
+            {
+              "data": {
+                "StartDuration": 0.9,
+                "Duration": 0,
+                "To": 1,
+                "OffsetX": 0,
+                "OffsetY": -3.4000000000000004,
+                "ZoomTarget": 0,
+                "StartEasingType": 2,
+                "UseYBottom": 0
+              }
+            },
+            {
+              "data": {
+                "StartDuration": 0.6,
+                "Duration": 0,
+                "To": 1,
+                "OffsetX": 0,
+                "OffsetY": -1.3,
+                "ZoomTarget": 0,
+                "StartEasingType": 0,
+                "UseYBottom": 0
+              }
+            },
+            {
+              "data": {
+                "StartDuration": 0.75,
+                "Duration": 0.6,
+                "To": 1.1,
+                "OffsetX": 0,
+                "OffsetY": 0,
+                "ZoomTarget": 0,
+                "StartEasingType": 2,
+                "UseYBottom": 0
+              }
+            }
+          ],
+          "StartEasingType": 2,
+          "EndEasingType": 2
+        },
+        "SlowEffect": {
+          "Enable": 1,
+          "StartDelay": 0.3,
+          "StartDuration": 0,
+          "Duration": 0.4,
+          "EndDuration": 0,
+          "To": 0.3
+        },
+        "ForcePlayNoTarget": 0,
+        "ParameterTarget": 0,
+        "ChangeSortDatas": [],
+        "ScaleChangers": [],
+        "BlackOutTime": 4.35,
+        "BlackoutEndWithMotion": 0,
+        "ForceComboDamage": 0,
+        "BlackoutColor": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "CutInMovieFadeStartTime": 2.15,
+        "CutInMovieFadeDurationTime": 0.03,
+        "CutInSkipTime": 0.35,
+        "SkillMotionType": 0,
+        "TrackDamageNum": 1,
+        "PauseStopState": 0,
+        "BranchIds": [
+          {
+            "data": 0
+          }
+        ]
+      }
+    }
+  ],
+  "MainSkillList": [
+    {
+      "data": {
+        "IsPrincessForm": 0,
+        "PrincessSkillMovieDataList": [],
+        "ActionParametersOnPrefab": [
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 1,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 0,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 110100201,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 3,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 8,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 1,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 102100202,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 1,
+              "ActionType": 10,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 1,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 1.5,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 112300201,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 1,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 1.5,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 112300202,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 4,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 2.6,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 110100203,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 51,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 0,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 108500201,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 9,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 0,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 50,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 0,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 108500201,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 42,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 2,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 16,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 20,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 7,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 33,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 0,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 109300201,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 26,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 1,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 110100202,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          }
+        ],
+        "SkillEffects": [
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": -8244644963403287000
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": 8434663150410210000
+              },
+              "ExecTime": [
+                {
+                  "data": 0
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 112300201,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 0
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": 4320422108391877000
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": 5420210754282893000
+              },
+              "ExecTime": [
+                {
+                  "data": 1.5
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "handF",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 0
+            }
+          }
+        ],
+        "ShakeEffects": [],
+        "BlurEffects": [],
+        "ZoomEffect": {
+          "Enable": 0,
+          "ConsiderScreenSize": 1,
+          "StartDelay": 0,
+          "StartDuration": 0.15,
+          "Duration": 1.55,
+          "EndDuration": 0.1,
+          "To": 0.9,
+          "ZoomTarget": 0,
+          "OffsetY": 0,
+          "OffsetX": 0,
+          "UseYBottom": 0,
+          "ZoomEffectList": [],
+          "StartEasingType": 2,
+          "EndEasingType": 2
+        },
+        "SlowEffect": {
+          "Enable": 0,
+          "StartDelay": 0,
+          "StartDuration": 0,
+          "Duration": 1.55,
+          "EndDuration": 0.1,
+          "To": 0.9
+        },
+        "ForcePlayNoTarget": 0,
+        "ParameterTarget": 0,
+        "ChangeSortDatas": [],
+        "ScaleChangers": [],
+        "BlackOutTime": 0,
+        "BlackoutEndWithMotion": 0,
+        "ForceComboDamage": 0,
+        "BlackoutColor": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0.9607843
+        },
+        "CutInMovieFadeStartTime": 1.9,
+        "CutInMovieFadeDurationTime": 0.1,
+        "CutInSkipTime": 0,
+        "SkillMotionType": 0,
+        "TrackDamageNum": 1,
+        "PauseStopState": 0,
+        "BranchIds": [
+          {
+            "data": 0
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "IsPrincessForm": 0,
+        "PrincessSkillMovieDataList": [],
+        "ActionParametersOnPrefab": [
+          {
+            "data": {
+              "Visible": 1,
+              "ActionType": 10,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 1,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 1.5,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 112300301,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 0.7,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 102100302,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 1,
+              "ActionType": 1,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 1,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 0,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 112300302,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 1.2,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 108700301,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 8,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 1,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 109600302,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 37,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [
+                      {
+                        "data": {
+                          "Time": 1.4000000000000001,
+                          "DamageNumType": 0,
+                          "Weight": 1,
+                          "DamageNumScale": 1
+                        }
+                      }
+                    ],
+                    "ExecTimeCombo": [],
+                    "ActionId": 108500301,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 4,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          },
+          {
+            "data": {
+              "Visible": 0,
+              "ActionType": 16,
+              "Details": [
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                },
+                {
+                  "data": {
+                    "Visible": 0,
+                    "ExecTimeForPrefab": [],
+                    "ExecTimeCombo": [],
+                    "ActionId": 0,
+                    "ActionEffectList": []
+                  }
+                }
+              ],
+              "KnockAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "KnockDownAnimationCurve": {
+                "m_Curve": [],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              },
+              "EffectType": 0
+            }
+          }
+        ],
+        "SkillEffects": [
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": -1468577599254422300
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": -4625417881418935000
+              },
+              "ExecTime": [
+                {
+                  "data": 0
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 4,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "handB",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 0
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": -1065269565902505700
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": -8983983014986923000
+              },
+              "ExecTime": [
+                {
+                  "data": 4.55
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [
+                {
+                  "data": {
+                    "Prefab": {
+                      "m_FileID": 1,
+                      "m_PathID": -4345870531396335600
+                    },
+                    "PrefabLeft": {
+                      "m_FileID": 1,
+                      "m_PathID": -330333421572807040
+                    },
+                    "ExecTime": [
+                      {
+                        "data": 0
+                      }
+                    ],
+                    "IsReaction": 0,
+                    "FireArmEndEffects": [],
+                    "TargetActionIsReflexive": 0,
+                    "TargetActionIndex": 0,
+                    "TargetActionId": 112300302,
+                    "FireActionId": -1,
+                    "TargetMotionIndex": 0,
+                    "EffectBehavior": 0,
+                    "EffectTarget": 2,
+                    "TargetBone": 3,
+                    "FireArmEndTarget": 1,
+                    "FireArmEndTargetBone": 0,
+                    "TrackType": 0,
+                    "TrackDimension": 0,
+                    "TargetBoneName": "",
+                    "TrackRotation": 0,
+                    "DestroyOnEnemyDead": 0,
+                    "CenterY": 0,
+                    "DeltaY": 0,
+                    "TrackTarget": 0,
+                    "Height": 0,
+                    "IsAbsoluteFireArm": 0,
+                    "AbsoluteFireDistance": 0,
+                    "ShakeEffects": [],
+                    "TargetBranchId": 0,
+                    "PlayWithCutIn": 0
+                  }
+                }
+              ],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 112300302,
+              "FireActionId": 112300302,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 1,
+              "EffectTarget": 0,
+              "TargetBone": 3,
+              "FireArmEndTarget": 2,
+              "FireArmEndTargetBone": 2,
+              "TrackType": 2,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [
+                {
+                  "data": {
+                    "ShakeType": 0,
+                    "StartTime": 0,
+                    "Duration": 0.2,
+                    "TargetMotion": 0,
+                    "StartAmplitude": 0.020000000000000004,
+                    "EndAmplitude": 0.020000000000000004,
+                    "StartFrequency": 6,
+                    "EndFrequency": 6,
+                    "Rotation": 90
+                  }
+                }
+              ],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 0
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": -996665679648191900
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": -7374790390498002000
+              },
+              "ExecTime": [
+                {
+                  "data": 1
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 0
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": -8840940624912252000
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": 1575062346036139300
+              },
+              "ExecTime": [
+                {
+                  "data": 4.54
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 0
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": -3392446242862028300
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": -1569602966979725600
+              },
+              "ExecTime": [
+                {
+                  "data": 4
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 0
+            }
+          },
+          {
+            "data": {
+              "Prefab": {
+                "m_FileID": 1,
+                "m_PathID": -8879070544808237000
+              },
+              "PrefabLeft": {
+                "m_FileID": 1,
+                "m_PathID": 1657495910345402600
+              },
+              "ExecTime": [
+                {
+                  "data": 4
+                }
+              ],
+              "IsReaction": 0,
+              "FireArmEndEffects": [],
+              "TargetActionIsReflexive": 0,
+              "TargetActionIndex": 0,
+              "TargetActionId": 0,
+              "FireActionId": -1,
+              "TargetMotionIndex": 0,
+              "EffectBehavior": 0,
+              "EffectTarget": 0,
+              "TargetBone": 0,
+              "FireArmEndTarget": 1,
+              "FireArmEndTargetBone": 0,
+              "TrackType": 0,
+              "TrackDimension": 0,
+              "TargetBoneName": "",
+              "TrackRotation": 0,
+              "DestroyOnEnemyDead": 0,
+              "CenterY": 0,
+              "DeltaY": 0,
+              "TrackTarget": 0,
+              "Height": 0,
+              "IsAbsoluteFireArm": 0,
+              "AbsoluteFireDistance": 0,
+              "ShakeEffects": [],
+              "TargetBranchId": 0,
+              "PlayWithCutIn": 0
+            }
+          }
+        ],
+        "ShakeEffects": [],
+        "BlurEffects": [],
+        "ZoomEffect": {
+          "Enable": 0,
+          "ConsiderScreenSize": 1,
+          "StartDelay": 0,
+          "StartDuration": 0.15,
+          "Duration": 1.55,
+          "EndDuration": 0.1,
+          "To": 0.9,
+          "ZoomTarget": 0,
+          "OffsetY": 0,
+          "OffsetX": 0,
+          "UseYBottom": 0,
+          "ZoomEffectList": [],
+          "StartEasingType": 2,
+          "EndEasingType": 2
+        },
+        "SlowEffect": {
+          "Enable": 0,
+          "StartDelay": 0,
+          "StartDuration": 0,
+          "Duration": 1.55,
+          "EndDuration": 0.1,
+          "To": 0.9
+        },
+        "ForcePlayNoTarget": 0,
+        "ParameterTarget": 0,
+        "ChangeSortDatas": [],
+        "ScaleChangers": [],
+        "BlackOutTime": 0,
+        "BlackoutEndWithMotion": 0,
+        "ForceComboDamage": 0,
+        "BlackoutColor": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0.9607843
+        },
+        "CutInMovieFadeStartTime": 1.9,
+        "CutInMovieFadeDurationTime": 0.1,
+        "CutInSkipTime": 0,
+        "SkillMotionType": 0,
+        "TrackDamageNum": 1,
+        "PauseStopState": 0,
+        "BranchIds": [
+          {
+            "data": 0
+          }
+        ]
+      }
+    }
+  ],
+  "SpecialSkillList": [],
+  "UnionBurstEvolutionList": [],
+  "MainSkillEvolutionList": [],
+  "Annihilation": {
+    "IsPrincessForm": 0,
+    "PrincessSkillMovieDataList": [],
+    "ActionParametersOnPrefab": [],
+    "SkillEffects": [],
+    "ShakeEffects": [],
+    "BlurEffects": [],
+    "ZoomEffect": {
+      "Enable": 0,
+      "ConsiderScreenSize": 1,
+      "StartDelay": 0,
+      "StartDuration": 0.15,
+      "Duration": 1.55,
+      "EndDuration": 0.1,
+      "To": 0.9,
+      "ZoomTarget": 0,
+      "OffsetY": 0,
+      "OffsetX": 0,
+      "UseYBottom": 0,
+      "ZoomEffectList": [],
+      "StartEasingType": 2,
+      "EndEasingType": 2
+    },
+    "SlowEffect": {
+      "Enable": 0,
+      "StartDelay": 0,
+      "StartDuration": 0,
+      "Duration": 1.55,
+      "EndDuration": 0.1,
+      "To": 0.9
+    },
+    "ForcePlayNoTarget": 0,
+    "ParameterTarget": 0,
+    "ChangeSortDatas": [],
+    "ScaleChangers": [],
+    "BlackOutTime": 0,
+    "BlackoutEndWithMotion": 0,
+    "ForceComboDamage": 0,
+    "BlackoutColor": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0.9607843
+    },
+    "CutInMovieFadeStartTime": 1.9,
+    "CutInMovieFadeDurationTime": 0.1,
+    "CutInSkipTime": 0,
+    "SkillMotionType": 0,
+    "TrackDamageNum": 1,
+    "PauseStopState": 0,
+    "BranchIds": []
+  }
+}

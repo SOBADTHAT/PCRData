@@ -1,0 +1,10 @@
+INSERT INTO "clan_grade"("clan_grade_id", "rank_from", "rank_to") VALUES (1, 1, 50);
+INSERT INTO "clan_grade"("clan_grade_id", "rank_from", "rank_to") VALUES (2, 51, 200);
+INSERT INTO "clan_grade"("clan_grade_id", "rank_from", "rank_to") VALUES (3, 201, 500);
+INSERT INTO "clan_grade"("clan_grade_id", "rank_from", "rank_to") VALUES (4, 501, 3000);
+INSERT INTO "clan_grade"("clan_grade_id", "rank_from", "rank_to") VALUES (5, 3001, 10000);
+INSERT INTO "clan_grade"("clan_grade_id", "rank_from", "rank_to") VALUES (6, 10001, 20000);
+INSERT INTO "clan_grade"("clan_grade_id", "rank_from", "rank_to") VALUES (7, 20001, 30000);
+INSERT INTO "clan_grade"("clan_grade_id", "rank_from", "rank_to") VALUES (8, 30001, 40000);
+INSERT INTO "clan_grade"("clan_grade_id", "rank_from", "rank_to") VALUES (9, 40001, 60000);
+INSERT INTO "clan_grade"("clan_grade_id", "rank_from", "rank_to") VALUES (10, 60001, -1);

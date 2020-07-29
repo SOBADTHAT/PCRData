@@ -1,0 +1,9 @@
+INSERT INTO "equipment_donation"("team_level", "donation_num_once", "donation_num_daily", "request_num_once") VALUES (10, 2, 10, 10);
+INSERT INTO "equipment_donation"("team_level", "donation_num_once", "donation_num_daily", "request_num_once") VALUES (20, 2, 10, 10);
+INSERT INTO "equipment_donation"("team_level", "donation_num_once", "donation_num_daily", "request_num_once") VALUES (30, 2, 10, 10);
+INSERT INTO "equipment_donation"("team_level", "donation_num_once", "donation_num_daily", "request_num_once") VALUES (40, 2, 10, 10);
+INSERT INTO "equipment_donation"("team_level", "donation_num_once", "donation_num_daily", "request_num_once") VALUES (50, 2, 10, 10);
+INSERT INTO "equipment_donation"("team_level", "donation_num_once", "donation_num_daily", "request_num_once") VALUES (60, 2, 10, 10);
+INSERT INTO "equipment_donation"("team_level", "donation_num_once", "donation_num_daily", "request_num_once") VALUES (70, 2, 10, 10);
+INSERT INTO "equipment_donation"("team_level", "donation_num_once", "donation_num_daily", "request_num_once") VALUES (80, 2, 10, 10);
+INSERT INTO "equipment_donation"("team_level", "donation_num_once", "donation_num_daily", "request_num_once") VALUES (999, 2, 10, 10);

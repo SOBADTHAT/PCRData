@@ -1,0 +1,1 @@
+INSERT INTO "campaign_freegacha"("id", "campaign_id", "freegacha_1", "freegacha_10", "start_time", "end_time", "stock_10_flag", "relation_id", "relation_count") VALUES (1, 1, 0, 1, '2020/06/27 5:00:00', '2020/07/08 4:59:59', 0, 0, 0);

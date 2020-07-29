@@ -1,0 +1,12 @@
+INSERT INTO "sekai_add_times_data"("id", "sekai_id", "add_times", "add_times_limit", "add_times_time", "duration") VALUES (1, 1001, 6, 10, '2019/04/01', 0);
+INSERT INTO "sekai_add_times_data"("id", "sekai_id", "add_times", "add_times_limit", "add_times_time", "duration") VALUES (2, 1001, 2, 10, '2019/04/01 2:00:00', 120);
+INSERT INTO "sekai_add_times_data"("id", "sekai_id", "add_times", "add_times_limit", "add_times_time", "duration") VALUES (3, 1001, 2, 10, '2019/04/01 4:00:00', 120);
+INSERT INTO "sekai_add_times_data"("id", "sekai_id", "add_times", "add_times_limit", "add_times_time", "duration") VALUES (4, 1001, 2, 10, '2019/04/01 6:00:00', 120);
+INSERT INTO "sekai_add_times_data"("id", "sekai_id", "add_times", "add_times_limit", "add_times_time", "duration") VALUES (5, 1001, 2, 10, '2019/04/01 8:00:00', 120);
+INSERT INTO "sekai_add_times_data"("id", "sekai_id", "add_times", "add_times_limit", "add_times_time", "duration") VALUES (6, 1001, 2, 10, '2019/04/01 10:00:00', 120);
+INSERT INTO "sekai_add_times_data"("id", "sekai_id", "add_times", "add_times_limit", "add_times_time", "duration") VALUES (7, 1001, 2, 10, '2019/04/01 12:00:00', 120);
+INSERT INTO "sekai_add_times_data"("id", "sekai_id", "add_times", "add_times_limit", "add_times_time", "duration") VALUES (8, 1001, 2, 10, '2019/04/01 14:00:00', 120);
+INSERT INTO "sekai_add_times_data"("id", "sekai_id", "add_times", "add_times_limit", "add_times_time", "duration") VALUES (9, 1001, 2, 10, '2019/04/01 16:00:00', 120);
+INSERT INTO "sekai_add_times_data"("id", "sekai_id", "add_times", "add_times_limit", "add_times_time", "duration") VALUES (10, 1001, 2, 10, '2019/04/01 18:00:00', 120);
+INSERT INTO "sekai_add_times_data"("id", "sekai_id", "add_times", "add_times_limit", "add_times_time", "duration") VALUES (11, 1001, 2, 10, '2019/04/01 20:00:00', 120);
+INSERT INTO "sekai_add_times_data"("id", "sekai_id", "add_times", "add_times_limit", "add_times_time", "duration") VALUES (12, 1001, 2, 10, '2019/04/01 22:00:00', 120);

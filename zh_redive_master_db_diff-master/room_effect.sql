@@ -1,0 +1,11 @@
+INSERT INTO "room_effect"("id", "reward_get", "jukebox", "nebbia") VALUES (1, 1, 0, 0);
+INSERT INTO "room_effect"("id", "reward_get", "jukebox", "nebbia") VALUES (2, 2, 0, 0);
+INSERT INTO "room_effect"("id", "reward_get", "jukebox", "nebbia") VALUES (3, 3, 0, 0);
+INSERT INTO "room_effect"("id", "reward_get", "jukebox", "nebbia") VALUES (4, 4, 0, 0);
+INSERT INTO "room_effect"("id", "reward_get", "jukebox", "nebbia") VALUES (5, 5, 0, 0);
+INSERT INTO "room_effect"("id", "reward_get", "jukebox", "nebbia") VALUES (6, 6, 0, 0);
+INSERT INTO "room_effect"("id", "reward_get", "jukebox", "nebbia") VALUES (7, 7, 0, 0);
+INSERT INTO "room_effect"("id", "reward_get", "jukebox", "nebbia") VALUES (8, 8, 0, 0);
+INSERT INTO "room_effect"("id", "reward_get", "jukebox", "nebbia") VALUES (9, 0, 1, 0);
+INSERT INTO "room_effect"("id", "reward_get", "jukebox", "nebbia") VALUES (10, 0, 0, 1);
+INSERT INTO "room_effect"("id", "reward_get", "jukebox", "nebbia") VALUES (11, 11, 0, 0);

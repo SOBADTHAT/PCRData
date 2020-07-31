@@ -1240,7 +1240,7 @@
                     {
                         "action_id": "100400303",
                         "action_type": "10",
-                        "effect_time": 0.0
+                        "effect_time": 1.1
                     },
                     {
                         "action_id": "0",
@@ -1830,7 +1830,7 @@
                     {
                         "action_id": "100700203",
                         "action_type": "21",
-                        "effect_time": 0.0
+                        "effect_time": 0.4
                     },
                     {
                         "action_id": "0",
@@ -1864,7 +1864,7 @@
                     {
                         "action_id": "100700301",
                         "action_type": "4",
-                        "effect_time": 0.5
+                        "effect_time": 2
                     },
                     {
                         "action_id": "0",
@@ -3093,7 +3093,7 @@
                     {
                         "action_id": "101100201",
                         "action_type": "10",
-                        "effect_time": 0.0
+                        "effect_time": 1.2
                     },
                     {
                         "action_id": "0",
@@ -4722,7 +4722,7 @@
                     {
                         "action_id": "101800302",
                         "action_type": "16",
-                        "effect_time": 0.0
+                        "effect_time": 0.1
                     },
                     {
                         "action_id": "0",
@@ -5307,12 +5307,12 @@
                     {
                         "action_id": "102100201",
                         "action_type": "10",
-                        "effect_time": 0.7
+                        "effect_time": 1
                     },
                     {
                         "action_id": "102100202",
                         "action_type": "10",
-                        "effect_time": 1
+                        "effect_time": 0.7
                     },
                     {
                         "action_id": "0",
@@ -7569,7 +7569,7 @@
                     {
                         "action_id": "102900301",
                         "action_type": "4",
-                        "effect_time": 0.5
+                        "effect_time": 1.2
                     },
                     {
                         "action_id": "0",
@@ -8486,7 +8486,7 @@
                     {
                         "action_id": "103200203",
                         "action_type": "1",
-                        "effect_time": 0.0
+                        "effect_time": 1
                     },
                     {
                         "action_id": "103200204",
@@ -9748,12 +9748,12 @@
                     {
                         "action_id": "103800202",
                         "action_type": "1",
-                        "effect_time": 0.0
+                        "effect_time": 0.3
                     },
                     {
                         "action_id": "103800203",
                         "action_type": "1",
-                        "effect_time": 0.0
+                        "effect_time": 0.3
                     },
                     {
                         "action_id": "103800204",
@@ -11021,7 +11021,7 @@
                     {
                         "action_id": "104400203",
                         "action_type": "1",
-                        "effect_time": 0.0
+                        "effect_time": 1.2
                     },
                     {
                         "action_id": "0",
@@ -11650,7 +11650,7 @@
                     {
                         "action_id": "104600202",
                         "action_type": "10",
-                        "effect_time": 0.1
+                        "effect_time": 0.2
                     },
                     {
                         "action_id": "0",
@@ -11694,7 +11694,7 @@
                     {
                         "action_id": "104600302",
                         "action_type": "16",
-                        "effect_time": 0.7
+                        "effect_time": 1.9
                     },
                     {
                         "action_id": "0",
@@ -12596,7 +12596,7 @@
                     {
                         "action_id": "104900201",
                         "action_type": "4",
-                        "effect_time": 0.6
+                        "effect_time": 0.9
                     },
                     {
                         "action_id": "0",
@@ -12967,22 +12967,22 @@
                     {
                         "action_id": "105000303",
                         "action_type": "7",
-                        "effect_time": 0.0
+                        "effect_time": 0.8
                     },
                     {
                         "action_id": "105000304",
                         "action_type": "1",
-                        "effect_time": 0.0
+                        "effect_time": 1.4000000000000001
                     },
                     {
                         "action_id": "105000305",
                         "action_type": "7",
-                        "effect_time": 0.0
+                        "effect_time": 0.8
                     },
                     {
                         "action_id": "105000306",
                         "action_type": "1",
-                        "effect_time": 0.0
+                        "effect_time": 1.5
                     },
                     {
                         "action_id": "0",
@@ -13869,7 +13869,7 @@
                     {
                         "action_id": "105300202",
                         "action_type": "10",
-                        "effect_time": 0.0
+                        "effect_time": 0.6
                     },
                     {
                         "action_id": "105300203",
@@ -13908,7 +13908,7 @@
                     {
                         "action_id": "105300301",
                         "action_type": "1",
-                        "effect_time": 0.8
+                        "effect_time": 1.55
                     },
                     {
                         "action_id": "105300302",
@@ -15181,7 +15181,7 @@
                     {
                         "action_id": "106000302",
                         "action_type": "10",
-                        "effect_time": 0.0
+                        "effect_time": 1.6700000000000002
                     },
                     {
                         "action_id": "0",
@@ -15503,7 +15503,7 @@
                     {
                         "action_id": "106300303",
                         "action_type": "16",
-                        "effect_time": 0.0
+                        "effect_time": 0.5
                     },
                     {
                         "action_id": "0",

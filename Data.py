@@ -155,23 +155,28 @@ class Data():
                                     continue
                                 t = eff['MainSkillList'][count]['data']['ActionParametersOnPrefab']
                                 for et in t:
-                                    aid = et['data']['Details'][0]['data']['ActionId']
-                                    if(aid==int(act['action_id'])):
-                                        if(len(et['data']['Details'][0]['data']['ExecTimeForPrefab'])==0):
-                                            act['effect_time'] = 0.0
-                                            continue
-                                        MaxETime = 0
-                                        for eTmp in et['data']['Details'][0]['data']['ExecTimeForPrefab']:
-                                            eTime = eTmp['data']['Time']
-                                            if(MaxETime<eTime):
-                                                MaxETime = eTime
-                                        if(eTime>0):
-                                            act['effect_time'] = MaxETime
-                                            flag = True
-                                        else:
-                                            eTime = eff['MainSkillList'][count]['data']['SkillEffects'][0]['data']\
-                                                ['ExecTime'][0]['data']
-                                            act['effect_time'] = eTime
+                                    for index in range(len(et['data']['Details'])):
+                                        aid = et['data']['Details'][index]['data']['ActionId']
+                                        if(aid==int(act['action_id'])):
+                                            if(len(et['data']['Details'][index]['data']['ExecTimeForPrefab'])==0):
+                                                act['effect_time'] = 0.0
+                                                continue
+                                            MaxETime = 0
+                                            for eTmp in et['data']['Details'][index]['data']['ExecTimeForPrefab']:
+                                                eTime = eTmp['data']['Time']
+                                                if(MaxETime<eTime):
+                                                    MaxETime = eTime
+                                            if(eTime>0):
+                                                if(act['effect_time']>0):
+                                                    if(act['effect_time']<MaxETime):
+                                                        act['effect_time'] = MaxETime
+                                                else:
+                                                    act['effect_time'] = MaxETime
+                                                flag = True
+                                            elif(act['effect_time']==0):
+                                                eTime = eff['MainSkillList'][count]['data']['SkillEffects'][0]['data']\
+                                                    ['ExecTime'][0]['data']
+                                                act['effect_time'] = eTime
                             count = count + 1
                             if(flag):
                                 adt['effect_type'] = '近战'
